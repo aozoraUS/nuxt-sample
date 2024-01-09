@@ -10,10 +10,10 @@ Nuxt(星陵祭のサイトで使われているフロントエンドのフレー
 ##　使い方
 以下のコマンドをターミナル（写真の赤で囲んだ部分）に打ってください。(1行ごとにエンターを押してください)
 ![](/images/explanation1.png)
-cd ./nuxt-sample
-エンターキーを押す
-yarn dev
-エンターキーを押す
+cd ./nuxt-sample <br/>
+エンターキーを押す <br/>
+yarn dev <br/>
+エンターキーを押す <br/>
 
 次に赤で囲った部分を押してください（またはchromeなどのURLのバーでlocalhost:3000と打ってください）
 ![](/images/explanation2.png)
