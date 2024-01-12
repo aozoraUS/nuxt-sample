@@ -8,6 +8,7 @@ Nuxt(星陵祭のサイトで使われているフロントエンドのフレー
 ### 開発環境の構築の仕方
 
 ![](/images/create_new_fork.png)
+<spacer/>
 ![](/images/fork_create_fork.png)
 
 上の画像のようにこのプロジェクトのフォークを作ってください <br/>
