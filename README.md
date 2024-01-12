@@ -48,4 +48,6 @@ Git is a free and open source distributed version control system designed to han
 ![](/images/changed_files.png)
 以下の画像で示した+ボタンを押してください（変更内容の全てを github 上に送りたいとき）<br/>
 ![](/images/stage_changed_files.png)
-「ステージされている変更」に変更したファイルが表示されていることを確認した後、「コミット」の上のメッセージの欄に変更の内容をかき（内容はなんでもいい）「コミット」のボタンを押してください。
+「ステージされている変更」に変更したファイルが表示されていることを確認した後、「コミット」の上のメッセージの欄に変更の内容をかき（内容はなんでもいい）「コミット」のボタンを押してください。<br/>
+最後に「変更の同期」を押してください。<br/>
+![](/images/connect.png)
